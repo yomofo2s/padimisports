@@ -1,5 +1,5 @@
-name: 'Hello World'
-description: 'Greet someone and record the time'
+name: 'Welcome to Padimi Sports'
+description: 'We are working on a new way to make sports more fun and engaging. We are building a platform that will allow you to play your favorite sports. We are currently in the process of building our platform and will be launching soon. Please stay tuned for more updates.'
 inputs:
   who-to-greet:  # id of input
     description: 'Who to greet'
